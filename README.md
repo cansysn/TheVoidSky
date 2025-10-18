@@ -43,9 +43,9 @@ Thanks to : oscat84
 - 24. Placeable Anywhere: Allows placing objects anywhere on the map.
 - 25. Shattering Shard: Spawns a Shattering Shard at your current location (works in some areas).
 
-### ► Environment & Visuals
-- 26. Disable Terrain: Makes ground, mountains, and other solid terrain invisible.
-- 27. Disable Objects: Hides environmental objects (rocks, ruins, decorations).
+### ► Environment & Visuals 
+26. Disable Terrain: Makes ground, mountains, and other solid terrain invisible.
+27.  27. Disable Objects: Hides environmental objects (rocks, ruins, decorations).
 - 28. Disable Object Skirt: Removes base textures where objects meet the ground.
 - 29. Disable Cloud: Hides all non-interactive clouds.
 - 30. Disable Water: Removes visual and physical properties of water.
