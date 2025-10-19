@@ -1,201 +1,201 @@
 # Sky Mod Menu for iOS - v0.3.5
 
-Author: [Soyu ( Flexing)  /  vithai ]
-Version: 0.3.5
-Compatible Game Version: [0.31.0]
+**Creator:** Soyu (Flexing)
+**Developer:** Vithai
 
-Welcome to the definitive mod menu for Sky: Children of the Light on iOS. This is a comprehensive tool designed to unlock the full potential of your gameplay. Version 0.3.5 includes over 130 distinct features, each listed and described in detail below, giving you unparalleled control over every aspect of the game.
+**Compatible Game Version:** [Enter Latest Compatible Game Version]
 
-Thanks to : Xetrinityz  https://github.com/XeTrinityz
-Thanks to : oscat84
+Welcome to the definitive mod menu for Sky: Children of the Light on iOS. This is a comprehensive tool designed to unlock the full potential of your gameplay. Version 0.3.5 now includes **over 150** distinct features, each listed and described in detail below, giving you unparalleled control over every aspect of the game.
+
+**Thanks For the Some Sources:**
+@Xetrinityz
+@oscat84
+
 ---
- 
+
 ## Full Feature List
 
-### ► Runs & Automation
-- 1. Candle Run (Server-side): Automates candle wax collection across all realms (server-side).
-- 2. Wing Buff (Server-side): Automatically collects all available Winged Light.
-- 3. Gift Friend Wax: Automatically sends wax gifts to all friends on your constellation.
-- 4. Semi Candle Run Teleport (with Friends): Teleport you and friends directly to major candle clusters.
-- 5. Auto Complete Daily Quests: Instantly completes all available daily quests.
+### Runs & Automation
+1.  **Candle Run (Server-side):** Automates the collection of candle wax across all realms, handled server-side for reliability.
+2.  **Wing Buff (Server-side):** Automatically gathers all available Winged Light for you.
+3.  **Gift Friend Wax:** Automatically sends wax gifts to all friends on your constellation.
+4.  **Semi Candle Run Teleport (with Friends):** Allows you and your friends to teleport directly to each major candle cluster.
+5.  **Auto Complete Daily Quests:** Instantly completes all available daily quests for you.
 
-### ► Music & Instruments
-- 6. Auto Play Instruments with Sheets: Automatically plays selected music sheets perfectly on your equipped instrument.
-- 7. Auto Play In-Game Sheets: Automatically plays music from in-game sources (spirits, music challenges).
-- 8. Gold Guitar: Applies a gold cosmetic texture to the guitar.
-- 9. Piano Toggle Mode: Enables a special functional mode for the piano.
+### Music & Instruments
+1.  **Auto Play Instruments with Sheets:** Automatically plays any selected music sheet perfectly on your equipped instrument.
+2.  **Auto Play In-Game Sheets:** Automatically plays music from in-game sources like spirits or music challenges.
+3.  **Gold Guitar:** Applies a cosmetic golden texture to your guitar.
+4.  **Piano Toggle Mode:** Enables a special functional mode for the piano instrument.
 
-### ► World General & Interaction
-- 10. Burn Candles: Instantly lights all unlit candles in the current area.
-- 11. Burn Plants: Instantly burns all nearby dark plants.
-- 12. Collect Wax: Gathers all wax droplets in your immediate vicinity.
-- 13. Open All Doors: Opens multiplayer-required doors without other players present.
-- 14. Winged Light Radar on Map: Displays icons for all Winged Light locations on the map.
-- 15. Spirits Radar on Map: Displays icons for all Spirit locations on the map.
-- 16. Map Shrine Radar on Map: Shows Map Shrine locations on the map.
-- 17. Collect Winged Light in Current Map: Instantly collects all Winged Light within the current level.
-- 18. Rainy For All Maps: Forces rainy weather in any map.
-- 19. Disable Wind: Stops all ambient wind effects.
-- 20. Disable Wind Wall: Removes invisible wind walls that push players back.
-- 21. Stop Rain / Disable Eden Rain: Stops current rain and disables Eden's damaging red stone rain.
-- 22. Disable Gate Requirements: Bypass spirit or player requirements to pass gates.
-- 23. Level Changer: Menu to directly load into any game map.
-- 24. Placeable Anywhere: Allows placing objects anywhere on the map.
-- 25. Shattering Shard: Spawns a Shattering Shard at your current location (works in some areas).
+### World General & Interaction
+1.  **Burn All Candles:** Instantly lights every unlit candle in the current area.
+2.  **Burn Plants:** Instantly burns all nearby dark plants.
+3.  **Collect Wax:** Gathers all available wax droplets in your immediate vicinity.
+4.  **Open All Doors:** Opens multiplayer-required doors without needing other players.
+5.  **Show WL Locations on Map:** Displays icons for all Winged Light locations, making them easy to find.
+6.  **Show Spirits Locations on Map:** Displays icons for all uncollected Spirit locations.
+7.  **Collect WL in Current Map:** Instantly gathers all Winged Light within the level you are currently in.
+8.  **Rainy For All Maps:** Forces a rainy weather effect in any map.
+9.  **Disable Wind:** Completely stops all ambient wind effects.
+10. **Disable Wind Wall:** Removes invisible wind walls that push you back.
+11. **Stop Rain / Disable Eden Rain:** Stops any current rain and specifically disables the damaging red stone rain in Eden.
+12. **Disable Gate Requirements:** Allows passage through gates without fulfilling spirit or player requirements.
+13. **Level Changer:** A menu to directly load into any other map in the game.
+14. **Maps Shrine Radar:** Displays the locations of all map shrines.
+15. **Placeable Everywhere:** Allows you to place items like candles and props anywhere, ignoring restrictions.
+16. **Shattering Shard:** Spawns a shattering shard event.
+17. **Shattering Explode:** Triggers the explosion effect of a shattering shard.
 
-### ► Environment & Visuals 
-26. Disable Terrain: Makes ground, mountains, and other solid terrain invisible.
-27.  27. Disable Objects: Hides environmental objects (rocks, ruins, decorations).
-- 28. Disable Object Skirt: Removes base textures where objects meet the ground.
-- 29. Disable Cloud: Hides all non-interactive clouds.
-- 30. Disable Water: Removes visual and physical properties of water.
-- 31. Disable UI: Hides the entire user interface for a clean screen.
-- 32. Moon X Location: Adjust moon horizontal (left/right) position.
-- 33. Moon Y Location: Adjust moon vertical (up/down) position.
-- 34. Moon Size: Change moon scale and perceived size.
-- 35. Moon Light: Adjust moonlight intensity.
-- 36. Moon Phase: Manually set the moon phase (e.g., full, crescent).
-- 37. Environment: General environmental visual settings menu.
-- 38. Exposure: Controls overall scene brightness.
-- 39. Point Light Multiplier: Adjust intensity of small light sources (lamps).
-- 40. Draw Distance: Change rendering distance for objects.
-- 41. Bloom Bend: Visual effect that warps light bloom.
-- 42. Bloom Bend +: Enhanced version of Bloom Bend.
-- 43. Red Sky: Change sky color to red.
-- 44. Green Sky: Change sky color to green.
-- 45. Blue Sky: Change sky color to blue.
-- 46. Red Grass: Change grass color to red.
-- 47. Green Grass: Change grass color to green.
-- 48. Blue Grass: Change grass color to blue.
-- 49. Flower Height: Adjust decorative flower height.
-- 50. Flower Size: Adjust decorative flower size.
-- 51. Clear Clouds: Remove all dynamic clouds from the sky.
-- 52. Floating Clouds: Spawn peaceful, floating clouds.
-- 53. Storm Clouds: Spawn dark, stormy clouds.
-- 54. Windy Clouds: Spawn fast-moving, windy clouds.
-- 55. Event Apply Menu: Apply unique visual styles from past in-game events.
+### Environment & Visuals
+1.  **Disable Terrain:** Makes the ground, mountains, and other solid terrain invisible.
+2.  **Disable Objects:** Hides environmental objects like rocks, ruins, and decorations.
+3.  **Disable Object Skirt:** Removes the base textures where objects meet the ground.
+4.  **Disable Cloud:** Makes all non-interactive clouds disappear.
+5.  **Disable Water:** Removes the visual and physical properties of water.
+6.  **Disable UI:** Hides the entire user interface for a clean screen.
+7.  **Moon X Location:** Adjusts the horizontal (left/right) position of the moon.
+8.  **Moon Y Location:** Adjusts the vertical (up/down) position of the moon.
+9.  **Moon Size:** Changes the scale and perceived size of the moon.
+10. **Moon Light:** Adjusts the intensity of the light emitted by the moon.
+11. **Moon Phase:** Manually set the current phase of the moon (e.g., full, crescent).
+12. **Environment:** A menu for general environmental visual settings.
+13. **Exposure:** Controls the overall brightness of the scene.
+14. **Point Light Multiplier:** Adjusts the intensity of small light sources like lamps.
+15. **Draw Distance:** Increases or decreases the distance at which objects are rendered.
+16. **Bloom Bend:** A visual effect that warps light bloom.
+17. **Bloom Bend +:** An enhanced version of the Bloom Bend effect.
+18. **Red Sky:** Changes the color of the entire sky to red.
+19. **Green Sky:** Changes the color of the entire sky to green.
+20. **Blue Sky:** Changes the color of the entire sky to blue.
+21. **Red Grass:** Changes the color of all grass to red.
+22. **Green Grass:** Changes the color of all grass to green.
+23. **Blue Grass:** Changes the color of all grass to blue.
+24. **Flower Height:** Adjusts the height of decorative flowers.
+25. **Flower Size:** Adjusts the size of decorative flowers.
+26. **Clear Clouds:** Removes all dynamic clouds from the sky.
+27. **Floating Clouds:** Spawns peaceful, floating clouds.
+28. **Storm Clouds:** Spawns dark, stormy clouds.
+29. **Windy Clouds:** Spawns fast-moving, windy clouds.
+30. **Event Apply Menu:** A menu to apply the unique visual styles of past in-game events.
 
-### ► Outfits & Appearance
-- 56. Open Closet Anywhere: Access full cosmetic closet from any location.
-- 57. Outfit Hack (Unlock All): Unlock all cosmetics (capes, masks, props, hairstyles).
-- 58. Dye Menu: Menu to apply color dyes to outfits.
-- 59. View Modder-Only Outfits: View normally hidden or unreleased outfits used by other modders.
-- 60. Dye Shop: Shortcut to access the dye shop interface.
-- 61. Outfit Editor: Comprehensive in-game outfit editor for real-time customization.
-- 62. Outfit Closet: Wear saved outfits from the closet manager.
+### Outfits & Appearance
+1.  **Open Closet Anywhere:** Access your full cosmetic closet from anywhere in the game.
+2.  **Outfit Hack (Unlock All):** Unlocks all cosmetic items, including capes, masks, props, and hairstyles.
+3.  **Dye Menu:** A special menu to apply color dyes to your outfits.
+4.  **See Hackers' Outfits:** Allows you to view the normally hidden or unreleased outfits used by other modders.
+5.  **Dye Shop:** A shortcut to access the dye shop interface.
+6.  **Outfit Editor:** A comprehensive menu to edit and customize your Sky Kid's look in real-time.
+7.  **Outfit Closet:** An alternative access point to the cosmetic closet.
 
-### ► Teleport & Location
-- 63. Coordinate Teleport (X-Y-Z): Teleport to specific X, Y, Z coordinates.
-- 64. Directional Teleports: Teleport a set distance in the direction you are facing.
-- 65. Current Map Teleport Menu: Quick-access presets for key locations in the current map.
-- 66. Out-of-Bounds Locations Menu: Teleport to various interesting out-of-bounds locations.
-- 67. Level Loader: Directly load into any map, bypassing normal entry points.
+### Teleport & Location
+1.  **Coordinate Teleport (X-Y-Z):** Instantly teleport to any specific X, Y, Z coordinate in the game world.
+2.  **Directional Teleports:** Teleport a set distance in the direction you are facing.
+3.  **Current Map Teleport Menu:** A quick-access menu with presets for key locations in the current map.
+4.  **OOB Locations Menu:** Teleport to various interesting out-of-bounds locations.
+5.  **Level Loader:** Directly load into any map, bypassing normal entry points.
 
-### ► Social & Multiplayer
-- 68. Stranger Radar: Show locations of all players in the area, including unlit players.
-- 69. Shine All Strangers: Automatically "light up" all strangers to reveal their appearance.
-- 70. Max Relationship: Instantly max out friendship trees with friends.
-- 71. Read Chat Hack: View chat messages from players you haven't unlocked chat with.
-- 72. Disable Multiplayer: Hide or disable interactions with other players for a solo session.
-- 73. Random Server: Instantly jump to a different server instance.
-- 74. Net Disconnect: Quickly disconnect and reconnect the network session.
-- 75. Interactions Menu: Use friendship interaction actions (note: does not work for strangers).
+### Social & Multiplayer
+1.  **Stranger Radar:** Shows the location of all players in the area, even if they are unlit.
+2.  **Shine All Strangers:** Automatically "lights up" all strangers, revealing their appearance.
+3.  **Max Relationship:** Instantly max out all friendship trees with your friends.
+4.  **Read Chat Hack:** See chat messages from players you haven't unlocked chat with.
+5.  **Disable Multiplayer:** Disables seeing or interacting with other players for a solo session.
+6.  **Random Server:** Instantly jump to a different server instance.
+7.  **Net Disconnect:** A utility to quickly disconnect and reconnect your network session.
+8.  **Interactions:** A menu to use friendship interactions (Note: does not work for strangers).
 
-### ► Player Modifications
-- 76. Game Speed: Adjust overall game speed (movement and animations).
-- 77. Set Cape Level: Manually set cape wedge count (0–12).
-- 78. Unlimited Energy: Cape energy never depletes (infinite flight/boost).
-- 79. Fast Flap: Increase flap speed and power.
-- 80. Orbit Mode: Camera orbits gently around your character.
-- 81. Collect All Fragments: Instantly gather all nearby spirit memory fragments.
-- 82. Full Progress: Complete various progression metrics instantly.
-- 83. Emote Level Hack: Unlock all emote levels (works with Unlock All).
-- 84. Show All Events (Removed): Removed due to crash issues.
-- 85. Super Fly: Highly increased flight speed and power.
-- 86. Super Jump: Dramatically increase jump height.
-- 87. Show All Old IAPs: View legacy in-app-purchase items in the shop.
-- 88. Always Fly: Toggle to remain in flight mode continuously.
-- 89. Photosensitivity Mode: Accessibility option to reduce flashing lights.
-- 90. Crawling Walk: Change walking animation to a crawl.
-- 91. Portrait Mode: Enable vertical (portrait) display mode (not available in base game settings).
-- 92. FOV Increase: Increase field of view for a wider perspective.
-- 93. FOV Decrease: Decrease field of view for a zoomed-in perspective.
-- 94. Ultimate Zoom: Maximize zoom capabilities for distant viewing.
-- 95. First Person View: Switch camera to first-person perspective.
-- 96. Focus Skykid: Lens effect that zooms environment to highlight the subject.
-- 97. Fast Run: Significantly increase running speed.
-- 98. Unlimited Fireworks: Launch fireworks without limits.
-- 99. AFK Short: Set short AFK animation.
-- 100. AFK Long: Set long AFK animation.
-- 101. Spirit Soul: Emit a constant blue light from your character.
-- 102. Spirit Light: Emit a smoky blue light effect.
-- 103. SkyKid Light: Emit a standard white light from your character.
-- 104. Sparkle Effect: Constant bright sparkling effect on your character.
-- 105. SkyKid Blue: Change character body texture to blue.
-- 106. Sparks Effect: Continuous particle spark effects.
-- 107. BlueKid: Change character body texture to a darker blue.
-- 108. BotKid: Carry an audience bot on your back.
-- 109. DarkKid: Apply a dark shadow effect similar to the Dark Dragon.
-- 110. Rainbow Trail: Leave a rainbow-colored trail while moving.
-- 111. Rainbow Ground: Leave a rainbow effect on the ground where you walk.
-- 112. Destroy Cape: Make your cape completely disappear (visual toggle).
+### Player Modifications
+1.  **Game Speed:** Adjust the overall speed of the game, affecting your movement and animations.
+2.  **Set Cape Level:** Manually set the number of wedges on your cape, from 0 to 12.
+3.  **Unlimited Energy:** Your cape energy never depletes, allowing for infinite flight and boosting.
+4.  **Fast Flap:** Increases the speed and power of your wing flaps.
+5.  **Orbit Mode:** A camera mode that gently orbits your character.
+6.  **Collect All Fragments:** Instantly gathers all nearby spirit memory fragments.
+7.  **Full Progress:** A function to complete various progression-related metrics.
+8.  **Emote Level Hack:** Unlocks all levels for all of your emotes (works with Unlock All).
+9.  **Super Fly:** A significantly faster and more powerful flight mode.
+10. **Super Jump:** Increases your jump height dramatically.
+11. **Show All Old IAPs:** A viewer to see all past in-app purchase items in the shop menu.
+12. **Always Fly:** A toggle that keeps you in flight mode, preventing you from landing.
+13. **Photosensitivity Mode:** An accessibility feature to reduce flashing lights.
+14. **Crawling Walk:** Changes your walking animation to a crawl.
+15. **SkyKid Blue Light:** Emits a constant blue light from your character.
+16. **SkyKid Blue Smoky Light:** Emits a smoky blue light effect.
+17. **SkyKid Light:** Emits a standard white light from your character.
+18. **SkyKid Shines:** Makes your character constantly emit a bright, shining effect.
+19. **Blue SkyKid:** Changes your character's body texture to blue.
+20. **Spark SkyKid:** Your character continuously gives off sparkling particle effects.
+21. **Feet Effect 1:** Applies a unique visual effect to your character's footsteps.
+22. **Feet Effect 2:** Applies a second unique visual effect to your footsteps.
+23. **Feet Effect 3:** Applies a third unique visual effect to your footsteps.
+24. **Destroy Cape:** A visual toggle to make your cape completely disappear.
+25. **Flash Safe Mode:** A safety feature to prevent screen-flashing effects.
+26. **Fov On:** Enables a custom Field of View.
+27. **Fov Off:** Disables the custom Field of View.
+28. **Unlimited Zoom:** Allows you to zoom the camera in and out without restrictions.
+29. **First Person View:** Toggles a first-person camera perspective.
+30. **Focus SkyKid:** A camera mode that always stays focused on your character.
+31. **Fast Run:** Increases your running speed on the ground.
+32. **Unlimited Fireworks:** Use fireworks props without consuming them.
+33. **AFK Short:** Triggers the short AFK (away from key) animation.
+34. **AFK Long:** Triggers the long AFK animation (sitting/sleeping).
 
-### ► Functions & Fun
-- 113. Play Purchase Fx: Trigger the visual and sound effects of a purchase.
-- 114. Avatar Crawl: Force your character into a crawling animation.
-- 115. Fake Wing Buff Drop: Spawn a fake Winged Light that does not increase totals.
-- 116. Fixed Camera Follow: Lock the camera down so it follows your character.
-- 117. Break Shield: Function to break shield-like objects.
-- 118. Kill Avatar: Force your character to fall and lose light.
-- 119. Set Ancestor Mode: Apply an Elder Spirit visual shader to your character.
-- 120. Play Animation Sequence: Trigger and play complex animation sequences.
-- 121. Spawn Wax Chunk: Spawn a large wax chunk that can be burned for light.
-- 122. Start Snake Game: Launch an embedded Snake game inside the mod menu.
-- 123. Add Snake Point: Manually add a point to the Snake game's score.
-- 124. Explosion Fx: Create a visual explosion effect centered on your character.
-- 125. Level Up Animation: Play friendship level-up animation.
-- 126. Spirit Shader: Apply the blue, transparent spirit shader to your character.
-- 127. Message Toy: Spawn a message boat or other message-leaving prop.
-- 128. Hide Players: Make all other players in the instance invisible.
-- 129. Hide Audience Bots: Hide non-player audience characters.
-- 130. Recording Candle: Spawn a candle used to record a player memory.
-- 131. Armor: Receive protection from Elders, making you invulnerable to Dark Dragon attacks.
-- 132. Message Stones: Place a rock-balancing prop with your message (applies at Rose Bloom locations).
-- 133. Weak Walk: Change walking animation to appear weak or injured.
-- 134. Pause Animation: Freeze your character in the current animation frame.
-- 135. Fireworks Menu: Menu to launch different types of fireworks.
-- 136. Star Bling Fx: Continuous "bling" sparkle effect.
-- 137. Avatar Ghost: Turn your character semi-transparent (ghost).
-- 138. Rainbow Party: Create a vibrant rainbow particle effect around you.
-- 139. Mama Goose Mode: Fun, unique character mode.
-- 140. Micro Mode: Shrink your character to a tiny size.
-- 141. Create Vine Crawler: Spawn a crawling vine effect.
-- 142. Shardnado: Create the "shardnado" visual effect from Season of Shattering.
-- 143. Inner Glow: Make your character glow from within.
-- 144. Emote Menu: Select any emote and play it at chosen level and speed.
-- 145. Animations Menu: Separate menu for non-emote character animations.
-- 146. Spell Menu: Use up to three spells simultaneously.
-- 147. Alternative Snake Game: A different implementation of the Snake game (not a Lua function).
-- 148. Alternative Snake Add Point: Add points to the alternative Snake game (not a Lua function).
+### Functions & Fun
+1.  **Play Purchase Fx:** Triggers the visual and sound effect of making a purchase.
+2.  **Avatar Crawl:** Forces your character into a crawling animation.
+3.  **Fake Wing Buff Drop:** Spawns a fake Winged Light that doesn't add to your total.
+4.  **See Avatar Off:** Makes your own avatar invisible on your screen.
+5.  **Break Shield:** A function related to breaking shield-like objects.
+6.  **Kill Avatar:** Instantly makes your character fall and lose light.
+7.  **Set Ancestor Mode:** Applies a visual shader that makes you look like an Elder Spirit.
+8.  **Play Anim Seq:** A menu to trigger and play various complex in-game animation sequences.
+9.  **Spawn Wax Chunk:** Spawns a large wax chunk that can be burned for light.
+10. **Start Snake Game:** Launches a classic game of Snake inside the mod menu.
+11. **Add Snake Point:** Manually adds a point to your score in the Snake game.
+12. **Explosion Fx:** Creates a visual explosion effect centered on your character.
+13. **Level Up Anim:** Plays the full animation for gaining a new cape wedge.
+14. **Spirit Shader:** Applies the blue, transparent shader of spirits to your character.
+15. **Message Toy:** Spawns a message boat or other message-leaving prop.
+16. **Hide Players:** Makes all other players in the instance invisible.
+17. **Hide Audience Bots:** Hides the non-player characters in audience areas.
+18. **Recording Candle:** Spawns a candle that allows you to record a player memory.
+19. **Armor:** Applies a cosmetic armor effect to your character.
+20. **Message Stones:** A menu to spawn message props like the Rose from The Little Prince event.
+21. **Weak Walk:** Changes your walking animation to appear weak or injured.
+22. **Pause Anim:** Freezes your character in the current frame of their animation.
+23. **Fireworks Menu:** A menu to launch different types of fireworks.
+24. **Star Bling Fx:** A continuous "bling" or sparkle effect.
+25. **Avatar Ghost:** Turns your character into a semi-transparent ghost.
+26. **Rainbow Party:** Creates a vibrant rainbow particle effect around you.
+27. **Mama Goose Mode:** A fun, unique character mode.
+28. **Micro Mode:** Shrinks your character to a tiny size.
+29. **Create Vine Crawler:** Spawns a crawling vine effect.
+30. **Shardnado:** Creates the "shardnado" visual effect from the Season of Shattering.
+31. **Inner Glow:** Makes your character glow from within.
+32. **Emote Menu:** Select any emote and play it at a chosen level and speed.
+33. **Animations Menu:** A separate menu for playing non-emote character animations.
+34. **Spell Menu:** A menu that allows you to use up to 3 spells simultaneously.
+35. **Snake Game (not lua function):** A different implementation of the Snake game.
+36. **Snake Add Point (not lua function):** Adds points to the alternative Snake game.
 
-### ► Avatar Scale & Shout
-- 149. Shout Type: Change the type of your call (e.g., deep call, manta call).
-- 150. Shout Color: Customize the color of your call's visual effect.
-- 151. Avatar Scale: Slider to adjust overall character size precisely.
-- 152. Avatar Height: Slider to adjust character height only.
-- 153. Transformation: Morph into various creatures and objects (Triangle, Cube, Crab, Broomstick, Fish, Bird, Manta, Butterfly, Jellyfish, Flying Skykid, Botkid, Serow, Bear, Boar, Monkey, Raccoon, Dragon (Head, Body, Tail), Firefly, None).
+### Avatar Scale & Shout
+1.  **Shout Type:** Changes the type of your call (e.g., Deep call, Manta call).
+2.  **Shout Color:** Customizes the color of your call's visual effect.
+3.  **Avatar Scale:** A slider to precisely adjust the overall size of your character.
+4.  **Avatar Height:** A slider to adjust only the height of your character.
+5.  **Transformation:** A menu to morph into various creatures and objects, including: Triangle, Cube, Crab, Broomstick, Fish, Bird, Manta, Butterfly, Jellyfish, Flying Skykid, Botkid, Serow, Bear, Boar, Monkey, Raccoon, Dragon (Head, Body, Tail), Firefly, and None.
 
 ---
-
-## 🚀 Coming Soon
-- Stay tuned! 40+ new features will be ready tomorrow!
 
 ## 🔗 Download Link
 
+**[INSERT YOUR DOWNLOAD LINK HERE]**
 
 ## Feedback & Bug Reports
 
-Your feedback is crucial for improving the menu. If you encounter any bugs or have suggestions, please report them in 
+Your feedback is crucial for improving the menu. If you encounter any bugs or have suggestions, please report them in [Specify where to report, e.g., the Discord server, a specific forum thread, etc.].
+
 ## Disclaimer
 
-Using mods is against the Terms of Service of the game. Use this menu at your own risk. The creator is not responsible for any actions taken against your account.
+Using mods is against the Terms of Service of the game. Use this menu at your own risk. The creators are not responsible for any actions taken against your account.
