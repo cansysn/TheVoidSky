@@ -193,10 +193,10 @@ Welcome to the definitive mod menu for Sky: Children of the Light on iOS. This i
 - Stay tuned! 40+ new features will be ready tomorrow!
 
 ## 🔗 Download Link
-- [**INSERT YOUR DOWNLOAD LINK HERE**]
+- [**https://t.me/+b1HvSgZ1a5czMGVk**]
 
 ## Feedback & Bug Reports
-- Your feedback is crucial for improving the menu. If you encounter any bugs or have suggestions, please report them in [**YOUR DISCORD/TELEGRAM/FORUM LINK HERE**].
+- Your feedback is crucial for improving the menu. If you encounter any bugs or have suggestions, please report them in [**https://t.me/+b1HvSgZ1a5czMGVk**] [**https://discord.gg/V9NB6wJT**].
 
 ## Disclaimer
 Using mods is against the Terms of Service of the game. Use this menu at your own risk. The creator is not responsible for any actions taken against your account.
