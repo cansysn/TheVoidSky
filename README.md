@@ -2,7 +2,7 @@
 
 **Author:** Soyu (Flexing) & Vithai
 **Version:** 0.3.5
-**Compatible Game Version:** 0.31.6
+**Compatible Game Version:** 0.32.1
 
  How to Open the Menu
 Once in-game, tap the screen with four (4) fingers at the same time to open and close the menu.
