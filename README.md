@@ -1,8 +1,24 @@
-# TheVoid for iOS - v0.3.5
+<h1 align="center">TheVoid for iOS</h1>
 
-**Author:** Soyu (Flexing) & Vithai
-**Version:** 0.3.5
-**Compatible Game Version:** 0.32.1
+<h4 align="center">Author: Soyu (Flexing) & vithai 🌵</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/cansysn/TheVoidSky/total?style=for-the-badge&color=007ec6" alt="Total Downloads">
+  </a>
+</p>
+  <p align="center">
+  <a href="https://t.me/TheVoidSky">
+    <img src="https://img.shields.io/badge/Join%20Us-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0a7fae85-21ac-45b7-8718-bebe18a881e7" 
+       alt="IMG_0441" 
+       width="400" 
+       height="auto" />
+</p>
+
 
  How to Open the Menu
 Once in-game, tap the screen with four (4) fingers at the same time to open and close the menu.
