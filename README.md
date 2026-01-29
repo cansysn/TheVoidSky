@@ -8,11 +8,16 @@
 <h4 align="center">Author: Soyu (Flexing) & vithai 🌵</h4>
 
 <p align="center">
-  <p align="center">
   <a href="https://github.com/cansysn/TheVoidSky/releases">
-    <img src="https://img.shields.io/github/downloads/cansysn/TheVoidSky/total?style=for-the-badge&color=2ECC71" alt="Total Downloads">
+    <img src="https://img.shields.io/badge/JAILBREAK_(DEB)-Download-2ECC71?style=for-the-badge&logo=github&logoColor=white" alt="Jailbreak Download">
   </a>
 </p>
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1KVG7mWMPuHoLeEsgIBsFLJGqUbwlTAm1?usp=drive_link">
+    <img src="https://img.shields.io/badge/NON--JAILBREAK_(IPA)-Google_Drive-FFC107?style=for-the-badge&logo=googledrive&logoColor=white" alt="Non-Jailbreak Download">
+  </a>
+</p>
+
   <p align="center">
   <a href="https://t.me/TheVoidSky">
     <img src="https://img.shields.io/badge/Join%20Us-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
