@@ -80,7 +80,7 @@ Your feedback is crucial for improving **TheVoidSky**. If you encounter any bugs
   <a href="https://t.me/TheVoidSky">
     <img src="https://img.shields.io/badge/Telegram-Community-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://discord.gg/V9NB6wJT">
+  <a href="https://discord.gg/qyWaBZxPK">
     <img src="https://img.shields.io/badge/Discord-Support-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
