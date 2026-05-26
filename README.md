@@ -13,7 +13,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://drive.google.com/drive/folders/1KVG7mWMPuHoLeEsgIBsFLJGqUbwlTAm1?usp=drive_link">
+  <a href="https://drive.google.com/drive/folders/1D4sRiFulR6U2Fhc23EA6CTdMVH2m3X6Z">
     <img src="https://img.shields.io/badge/NON--JAILBREAK_(IPA)-Google_Drive-FFC107?style=for-the-badge&logo=googledrive&logoColor=white" alt="Non-Jailbreak Download">
   </a>
 </p>
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/168dc56a-0467-4363-ba3c-93ed52f4709a" 
+  <img src="https://github.com/user-attachments/assets/5d00ad9d-2bc7-4311-b465-156b73452144" 
        alt="IMG_0441" 
        width="400" 
        height="auto" />
@@ -59,17 +59,8 @@ Follow these 3 simple steps:
   - No, GameCenter is not supported. Please use other login methods.
 - **Why can't I log in with Google?**
   - This depends on your installation method. Google login usually works when installed via **Sideloadly** or **LiveContainer**.
-- **The features are not working.**
-  - Go to the **Settings** tab, toggle the "Menu Type" to **Jailbreak**, then switch it back to **Non-Jailbreak**.
-- **Why does the game crash frequently?**
-  - Crashing is expected as some features are experimental. To minimize crashes, avoid using the **Closet** tab, **Cosmetics/Instruments** selections, and **Runtime Actions** cards.
 
 </details>
-
----
-
-## 🕹️ How to Use
-> **Pro Tip:** Once in-game, tap the screen with **four (4) fingers** simultaneously to toggle the menu.
 
 ---
 
