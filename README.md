@@ -78,12 +78,6 @@ Your feedback is crucial for improving **TheVoidSky**. If you encounter any bugs
 
 ---
 
-## ❤️ Credits
-Special thanks to these amazing developers for their contributions and inspiration:
-* **XeTrinityz**
-* **oscat84**
-
----
 
 ## ⚠️ Disclaimer
 Using mods is against the **Terms of Service** of the game. 
