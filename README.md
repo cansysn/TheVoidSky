@@ -5,7 +5,7 @@
   <br>
   <i>A performance tool designed to enhance your Sky: Children of the Light experience for iOS without requiring Jailbreak.</i>
 </p>
-<h4 align="center">Author: Soyu (Flexing) & vithai 🌵</h4>
+<h4 align="center">Author: Soyu (Flexing) & <s>vithai</s> 🌵</h4>
 
 <p align="center">
   <a href="https://github.com/cansysn/TheVoidSky/releases">
